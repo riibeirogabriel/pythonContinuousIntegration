@@ -1,10 +1,10 @@
-# pythonTestsCI
-A simple implementation of [Continuous Integrations](https://www.atlassian.com/continuous-delivery/continuous-integration)
+# pythonContinuousIntegration
+A simple python implementation of [Continuous Integrations](https://www.atlassian.com/continuous-delivery/continuous-integration)
 
 ## What is
 In this example is implemented the OpsNumber package, which have a sum function, given a number list, the function return a sum of all numbers of the list
 
-## CI Pipeline
+## Continuous Integration Pipeline
 The implemented continuous integration have two stages in pipeline:
 
 * Test stage: using [unittest](https://docs.python.org/3/library/unittest.html), to run unitary tests located in /tests path
