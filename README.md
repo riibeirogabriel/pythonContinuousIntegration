@@ -1,5 +1,5 @@
 # pythonTestsCI
-A simple implementation of Continuous Integrations (CI)
+A simple implementation of [Continuous Integrations](https://www.atlassian.com/continuous-delivery/continuous-integration)
 
 ## What is
 In this example is implemented the OpsNumber package, which have a sum function, given a number list, the function return a sum of all numbers of the list
